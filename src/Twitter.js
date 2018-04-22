@@ -5,7 +5,7 @@ export default class Twitter extends React.Component {
     render() {
         return (
             <WebView
-                source={{ uri: 'https://twitter.com/NBA' }}
+                source={{ uri: 'https://www.9gag.com' }}
                 style={{ marginTop: 20 }}
             />
         );

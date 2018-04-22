@@ -5,7 +5,7 @@ export default class Facebook extends React.Component {
     render() {
         return (
             <WebView
-                source={{ uri: 'https://www.facebook.com/devbootcamp/' }}
+                source={{ uri: 'https://www.facebook.com/' }}
                 style={{ marginTop: 20 }}
             />
         );
